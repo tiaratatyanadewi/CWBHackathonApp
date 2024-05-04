@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/background.jpeg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "GABOOT 1.0",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "An autonomous wall following robot.",
+    url: "https://drive.google.com/file/d/1P2m9JR1FL7Oduyk75qqGbwaOJppUKnk0/view",
   },
   {
-    title: "Web Development for Beginners",
+    title: "SPARTA",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A forward-swept flying wing UAV - Racing plane.",
+    url: "https://www.instagram.com/p/CwAGJw_JcUm/?igsh=MTJpaDk5cXEzNjd1aw",
   },
   {
-    title: "My Resume Site",
+    title: "Fuzzy PID Control Quadrotor",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created Fuzzy PID Control for Quadrotor in ROS Noetic.",
+    url: "https://youtu.be/WrX8n6NUzcY?feature=shared",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Lung Cancer Detection",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Created Lung Cancer Detection from CT Scan Image Datasets using Deep Learning.",
+    url: "https://youtu.be/9n8YSaA8VnY?feature=shared",
   },
 ];
 
